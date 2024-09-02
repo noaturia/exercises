@@ -1,3 +1,4 @@
-print("age")
-age = input("type ypur age:")
-print(f"your age is:{age} years old")
+lanche = ('mamao', 'queijo', 'pizza', 'pudim', 'cenoura', 'alfase', 'brocolis')
+for comida in lanche:
+    print(f'eu vou comer {comida}')
+print('comi para caramba')
